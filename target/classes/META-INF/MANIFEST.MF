@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: java-lua
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xd
+Implementation-Vendor-Id: com.lua
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/java-lua
+Created-By: Maven Integration for Eclipse
+
